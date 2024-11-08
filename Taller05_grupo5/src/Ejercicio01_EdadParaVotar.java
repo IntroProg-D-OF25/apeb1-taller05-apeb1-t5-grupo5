@@ -20,4 +20,8 @@ public class Ejercicio01_EdadParaVotar {
  * run :
  * Dame una edad: 17
  * No vota
+ * 
+ * run:
+ * Dame una edad: 19
+ * Vota
  */

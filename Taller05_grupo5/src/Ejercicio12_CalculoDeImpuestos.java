@@ -7,6 +7,6 @@
  *
  * @author UTPL
  */
-public class Ejercicios12_CalculoDeImpuestos {
+public class Ejercicio12_CalculoDeImpuestos {
     
 }
